@@ -1,1 +1,1 @@
-# kunj
+print "Hello world"
